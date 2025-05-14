@@ -16,10 +16,6 @@ A simple and fully responsive Text-to-Speech Converter built using **HTML**, **C
 - **CSS** – to style and design a responsive layout
 - **JavaScript** – to implement the text-to-speech functionality
 
-## 📸 Screenshots
-
-> Add a screenshot of your project here (optional)
-
 ## 🎯 How It Works
 
 1. User types or pastes text into the textarea.
